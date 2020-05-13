@@ -1,0 +1,4 @@
+name: prms_groundwater
+language: fortran
+package: prms_groundwater
+class: PRMSGroundwater
