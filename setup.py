@@ -97,7 +97,7 @@ setup(
     author_email="csdms@colorado.edu",
     description="PyMT plugin for pymt_prms_groundwater",
     long_description=long_description,
-    version="0.2.0",
+    version="0.2.1.dev0",
     url="https://github.com/pymt-lab/pymt_prms_groundwater",
     classifiers=[
         "Development Status :: 4 - Beta",
