@@ -1,8 +1,8 @@
 Changelog for pymt_prms_groundwater
 ===================================
 
-0.2.0 (unreleased)
--------------------
+0.2.0 (2020-10-12)
+------------------
 
 - Re-wrap component with new *babelizer*
 - Use updated PRMS control file
