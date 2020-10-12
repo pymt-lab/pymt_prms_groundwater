@@ -11,7 +11,7 @@ pymt_prms_groundwater
         :target: https://anaconda.org/csdms-stack/pymt_prms_groundwater
 
 .. image:: https://img.shields.io/travis/pymt-lab/pymt_prms_groundwater.svg
-        :target: https://travis-ci.org/pymt-/pymt_prms_groundwater
+        :target: https://travis-ci.org/pymt-lab/pymt_prms_groundwater
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
         :target: https://github.com/csdms/pymt
