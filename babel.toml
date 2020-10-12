@@ -1,0 +1,26 @@
+[library]
+[library.PRMSGroundwater]
+language = "fortran"
+library = "bmiprmsgroundwater"
+header = ""
+entry_point = "bmi_prms_groundwater"
+
+[build]
+undef_macros = []
+define_macros = []
+libraries = []
+library_dirs = []
+include_dirs = []
+extra_compile_args = []
+
+[package]
+name = "pymt_prms_groundwater"
+requirements = ["prms", "prms_groundwater"]
+
+[info]
+github_username = "pymt-lab"
+package_author = "Community Surface Dynamics Modeling System"
+package_author_email = "csdms@colorado.edu"
+package_license = "MIT"
+summary = "PyMT plugin for the PRMS6 Groundwater component"
+

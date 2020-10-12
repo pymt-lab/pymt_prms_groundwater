@@ -1,11 +1,11 @@
 #! /usr/bin/env python
+import pkg_resources
 
-from .bmi import (PRMSGroundwater,
-)
+__version__ = pkg_resources.get_distribution("pymt_prms_groundwater").version
 
-__all__ = ["PRMSGroundwater",
+
+from .bmi import PRMSGroundwater
+
+__all__ = [
+    "PRMSGroundwater",
 ]
-
-from ._version import get_versions
-__version__ = get_versions()['version']
-del get_versions

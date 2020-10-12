@@ -1,4 +1,4 @@
-name: prms_groundwater
+name: pymt_prms_groundwater
 language: fortran
-package: prms_groundwater
+package: pymt_prms_groundwater
 class: PRMSGroundwater
